@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/License-GNU%20GPL%20v3-blue.svg)
 
+> **Notice:** Public development for **fusion-simulator** has moved to a private repository. This repository is no longer actively maintained.
+
 _**[BETA]**_ Yu-Gi-Oh! Fusion Simulator is an open-source project created by fans, designed to simulate card fusions and equipment interactions from the Yu-Gi-Oh! universe. This project is not affiliated with or endorsed by Konami.
 
 ## ⭐ Features
